@@ -1,0 +1,29 @@
+.MovieInfo {
+    width: 800px;
+    position: absolute;
+    top: 0;
+    left: 40%;
+    background: #191919;
+}
+
+.MovieInfoDetails {
+    display: flex;
+}
+
+.MovieInfoDetailsLeft {
+    width: 600px;
+}
+
+.MovieInfoDetailsRight {
+    width: 200px;
+}
+
+.MovieInfoNavigation {
+    display: flex;
+}
+
+.MovieInfoDescription {
+    font-size: 18px;
+    padding-left: 30px;
+    color: #929292;
+}

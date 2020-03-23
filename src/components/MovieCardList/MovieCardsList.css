@@ -1,0 +1,6 @@
+.MoviesCardsList {
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 80%;
+    max-width: 1000px;
+}

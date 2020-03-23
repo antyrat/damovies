@@ -1,0 +1,10 @@
+.Header {
+    margin: 20px 0;
+    color: #fff;
+    padding-left: 40px;
+}
+
+.Header h2 {
+    text-decoration: underline;
+    font-weight: 500;
+}

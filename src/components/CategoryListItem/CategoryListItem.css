@@ -1,0 +1,23 @@
+.CategoryListItem {
+    text-transform: capitalize;
+    list-style-type: none;
+    color: #707070;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.CategoryListItem.active {
+    color: #fff;
+}
+
+.CategoryListItem.active.selected {
+    border: 2px solid #ca620a;
+    border-radius: 3px;
+}
+
+.CategoryListItem.active:after {
+    content: '\203A';
+    color: #ca620a;
+    display: inline-block;
+    margin-left: 5px;
+}

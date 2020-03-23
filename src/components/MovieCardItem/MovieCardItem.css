@@ -1,0 +1,15 @@
+.MovieCardItem {
+    width: 200px;
+    height: 295px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 10px;
+    transition: all 0.5s ease;
+}
+
+.MovieCardItem.active {
+    border: 2px solid #ca620a;
+    border-radius: 3px;
+    transform: scale(1.05);
+}

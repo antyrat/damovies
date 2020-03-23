@@ -1,0 +1,14 @@
+.MovieInfoAttribute {
+    border-top: 1px solid #282828;
+    padding-top: 20px;
+    margin-top: 20px;
+    flex-grow: 1;
+    margin-right: 20px;
+}
+
+.MovieInfoAttributeTitle {
+    color: #3a3a3a;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
